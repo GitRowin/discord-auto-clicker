@@ -2,6 +2,8 @@
 
 As seen in [Headed's video](https://www.youtube.com/watch?v=7QdQivv_gzU).
 
+![Screenshot](https://raw.githubusercontent.com/GitRowin/discord-auto-clicker/master/screenshot.png)
+
 ## Flaws
 * The auto clicker is easily detected client-side because of JNativeHook.
 * The randomization is mediocre, it probably won't get you auto banned though.
